@@ -7,34 +7,58 @@ const DomainCards = () => {
     const cards = [
         {
             id: 1,
-            title: "Mountain Adventure",
-            description: "Experience the thrill of mountain climbing and scenic views",
-            image: "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b"
+            title: "Website Development",
+            description: "Build responsive and modern websites",
+            image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=815&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
             id: 2,
-            title: "Beach Paradise",
-            description: "Relax on pristine beaches with crystal clear waters",
-            image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+            title: "App Development",
+            description: "Create user-friendly mobile applications",
+            image: "https://images.unsplash.com/photo-1633250391894-397930e3f5f2?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
             id: 3,
-            title: "Urban Exploration",
-            description: "Discover hidden gems in vibrant city landscapes",
-            image: "https://images.unsplash.com/photo-1449824913935-59a10b8d2000"
+            title: "Testing",
+            description: "Ensure quality and performance through rigorous testing",
+            image: "https://images.unsplash.com/photo-1585624882829-f92c2d4cd89d?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
             id: 4,
-            title: "Forest Retreat",
-            description: "Find peace and tranquility in dense forest surroundings",
-            image: "https://images.unsplash.com/photo-1448375240586-882707db888b"
+            title: "Logo Designing",
+            description: "Craft unique and memorable logos",
+            image: "https://images.unsplash.com/photo-1620912189865-1e8a33da4c5e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGxvZ28lMjBkZXNpZ258ZW58MHx8MHx8fDA%3D"
         },
         {
             id: 5,
-            title: "Desert Safari",
+            title: "Graphic Designing",
             description: "Experience the magic of golden sand dunes",
-            image: "https://images.unsplash.com/photo-1509316785289-025f5b846b35"
-        }
+            image: "https://images.unsplash.com/photo-1502404679462-d669245fc482?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGdyYXBoaWMlMjBkZXNpZ258ZW58MHx8MHx8fDA%3D"
+        },
+        {
+            id: 6,
+            title: "Digital Marketing",
+            description: "Boost your online presence with effective strategies",
+            image: "https://images.unsplash.com/photo-1557838923-2985c318be48?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZGlnaXRhbCUyMG1hcmtldGluZ3xlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            id: 7,
+            title: "SEO",
+            description: "Improve your website's visibility on search engines",
+            image: "https://images.unsplash.com/photo-1562577309-2592ab84b1bc?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            id: 8,
+            title: "Email Marketing",
+            description: "Craft unique and memorable logos",
+            image: "https://images.unsplash.com/photo-1620912189865-1e8a33da4c5e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGxvZ28lMjBkZXNpZ258ZW58MHx8MHx8fDA%3D"
+        },
+        // {
+        //     id: 9,
+        //     title: "ADS Specializing",
+        //     description: "Experience the magic of golden sand dunes",
+        //     image: "https://images.unsplash.com/photo-1502404679462-d669245fc482?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGdyYXBoaWMlMjBkZXNpZ258ZW58MHx8MHx8fDA%3D"
+        // }
     ];
 
 
